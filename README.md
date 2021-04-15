@@ -10,5 +10,5 @@ $ docker build -t "sandbox:latest" .
 Something like,
 ```
 $ docker run --name sandbox \
-		skiqqy:latest
+		sandbox:latest
 ```
