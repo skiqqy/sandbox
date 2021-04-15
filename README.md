@@ -9,6 +9,6 @@ $ docker build -t "sandbox:latest" .
 ### Running
 Something like,
 ```
-$ docker run --name sandbox \
+$ docker run -it --name sandbox \
 		sandbox:latest
 ```
